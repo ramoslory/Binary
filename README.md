@@ -19,8 +19,8 @@
 - 🌀 Comandos mágicos:
   - Abrir VS Code, navegador e Spotify
   - Falar a hora e a data
-  - Previsão do tempo em Feira de Santana
-  - Horóscopo diário de Áries ♈
+  - Previsão do tempo
+  - Horóscopo diário
   - Lembrar de beber água 💧
 - 🌿 Frases afetuosas no estilo  — serena, firme e encantadora
 
