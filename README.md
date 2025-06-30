@@ -28,13 +28,13 @@
 
 ## 🚀 Como usar
 
-### 1. Clone o projeto
+###  1. Clone o projeto
 
 ```
 git clone https://github.com/seu-usuario/binary-assistente.git
 cd binary-assistente
 ```
-<h1 2. Instale as dependências </h1>
+**2. Instale as dependências.**
 
 pip install -r requirements 
 
@@ -42,7 +42,7 @@ pip install -r requirements
 pip install -r requirements.txt
 ```
 
-<h1 3. Configure sua chave da API do OpenWeather </h1>
+**3. Configure sua chave da API do OpenWeather.**
 
 Cadastre-se em openweathermap.org e cole sua chave no código: 
 
@@ -50,7 +50,7 @@ Cadastre-se em openweathermap.org e cole sua chave no código:
 OPENWEATHER_API_KEY = "sua_chave_aqui
 ```
 
-<h1 4. Execute a Binary </h1>
+**4. Execute a Binary.**
 
 
   ```
