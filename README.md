@@ -41,6 +41,7 @@ pip install -r requirements
 ```
 pip install -r requirements.txt
 ```
+
 <h1 3. Configure sua chave da API do OpenWeather </h1>
 
 Cadastre-se em openweathermap.org e cole sua chave no código: 
@@ -48,7 +49,9 @@ Cadastre-se em openweathermap.org e cole sua chave no código:
 ```
 OPENWEATHER_API_KEY = "sua_chave_aqui
 ```
+
 <h1 4. Execute a Binary </h1>
+
 
   ```
   python binary_assistente.py
