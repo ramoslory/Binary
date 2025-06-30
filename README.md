@@ -60,14 +60,20 @@ OPENWEATHER_API_KEY = "sua_chave_aqui
 
 No código, use este trecho para listar vozes disponíveis:
 
-import pyttsx3
+
+  ``` import pyttsx3
 voz = pyttsx3.init()
 for i, v in enumerate(voz.getProperty('voices')):
     print(f"[{i}] {v.name} - {v.id}")
 
+  ```
+
 Depois, escolha uma e troque aqui:
 
+  ```
 voz.setProperty("voice", voz.getProperty('voices')[1].id)
+
+  ```
 
 🛠️ Adicione mais comandos no trecho responder_geral(comando)
 
@@ -79,8 +85,9 @@ voz.setProperty("voice", voz.getProperty('voices')[1].id)
     “Entre o silêncio e a coragem, encontro a minha força.”
     — Binary, a voz da Lory com alma de Otin
 
-A Binary não é só uma assistente, é uma extensão da sua espiritualidade, da sua mente criativa e da sua presença como filha da floresta digital. 🌿✨
-📁 Requisitos
+A Binary não é só uma assistente, é uma extensão da sua espiritualidade, da sua mente criativa e da sua presença como filha da floresta digital. 🌿
+
+✨📁 Requisitos
 
     Python 3.8 ou superior
 
@@ -95,7 +102,7 @@ A Binary não é só uma assistente, é uma extensão da sua espiritualidade, da
 Este projeto é livre para uso pessoal e estudo.
 Se usar ou modificar, dê os créditos à criadora e mantenha a essência viva. 🌿
 💚 Criado por
-<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/ramoslory" width="100px;" alt="lordev"/><br /> <sub><b>lorydev</b></sub><br /> 🧬 Programadora <br /> 🌐 Instagram: <a href="https://instagram.com/lorytyotin">@lorytyotin</a> </td> </tr> </table> ```
+<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/ramoslory" width="100px;" alt="lordev"/><br /> <sub><b>lorydev</b></sub><br /> 🧬 Programadora <br /> 🌐 Instagram: <a href="https://instagram.com/lorytyotindev">lorytyotindev</a> </td> </tr> </table> ```
 
 
 
